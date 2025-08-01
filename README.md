@@ -100,3 +100,11 @@ All rights reserved. No part of this software may be used, copied, modified, or 
 Use a restrictive license such as:
 ```text
 © 2025 V-Connect by [MSA]. All Rights Reserved.
+
+
+🤝 Contact
+Interested in CSR collaboration, pilot deployment, or investment?
+
+📧 Email: ms.asfaan123@gmail.com
+
+📍 Based in: Chennai, India

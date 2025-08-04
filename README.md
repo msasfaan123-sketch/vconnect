@@ -32,7 +32,7 @@ This is a **demo model** showcasing key features, while the **final production-g
 ### 🧮 Tools for Decision Makers
 - **🧾 Cost Estimator** – Estimate project budgets for infrastructure and services.
 - **📊 Admin Dashboard** – Admins can track villages, update statuses, and view analytics.
-- **🏢 CSR Dashboard (optional)** – Corporates can transparently track fund utilization and village impact.
+- **🏢 CSR Dashboard (upcomming)** – Corporates can transparently track fund utilization and village impact.
 
 ---
 
